@@ -10,7 +10,8 @@ Ronda Malam is an information system designed to record and manage night patrol 
 ## Technologies Used
 - PHP
 - MySQL
-- HTML/CSS
+- HTML
+- CSS
 - Bootstrap
 
 ## Requirements
@@ -35,7 +36,7 @@ Ronda Malam is an information system designed to record and manage night patrol 
 2. Click the "Submit" button to send the data.
 3. A status message will be displayed after data submission.
 
-## Contributing
+## Contribution
 Contributions are welcome! If you would like to contribute to this project, please follow these steps :
 1. Fork this repository.
 2. Create a new feature or fix a bug on your branch.

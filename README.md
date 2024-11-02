@@ -38,7 +38,6 @@ Ronda Malam is an information system designed to record and manage night patrol 
 3. A status message will be displayed after data submission.
 
 ## Contributing
-
 Contributions are welcome! If you would like to contribute to this project, please follow these steps :
 1. Fork this repository.
 2. Create a new feature or fix a bug on your branch.

@@ -1,7 +1,7 @@
 # Ronda Malam Information System
 
 ## Project Description
-- Ronda Malam is an information system designed to record and manage night patrol activities, including data on the officers on duty, the areas being guarded, incident notes, and patrol times. The aim of this project is to enhance security and efficiency in managing night patrols within communities.
+Ronda Malam is an information system designed to record and manage night patrol activities, including data on the officers on duty, the areas being guarded, incident notes, and patrol times. The aim of this project is to enhance security and efficiency in managing night patrols within communities.
 
 ## Features
 - **Data Input** : Add night patrol data including officer name, area, incident notes, and patrol time.
@@ -22,8 +22,8 @@
 
 ## Installation
 1. **Clone or Download the Repository** : 
-      ```bash
-      git clone https://github.com/username/crud-laporan-ronda.git
+   ```bash
+   git clone https://github.com/username/crud-laporan-ronda.git
 2. Import the Database :
    - Create a new database named ronda_malam.
    - Import the SQL file provided in the repository (if available) into the database.
@@ -44,5 +44,5 @@ Contributions are welcome! If you would like to contribute to this project, plea
 2. Create a new feature or fix a bug on your branch.
 3. Submit a pull request to merge your changes.
 
-## Lincence
+## License
 This project is licensed under the MIT License.

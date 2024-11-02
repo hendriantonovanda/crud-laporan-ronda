@@ -25,12 +25,12 @@ Ronda Malam is an information system designed to record and manage night patrol 
    ```bash
    git clone https://github.com/username/crud-laporan-ronda.git
 2. Import the Database :
-   - Create a new database named ronda_malam.
-   - Import the SQL file provided in the repository (if available) into the database.
+- Create a new database named ronda_malam.
+- Import the SQL file provided in the repository (if available) into the database.
 3. Configure Database Connection :
-   - Edit the koneksi.php file to set your database connection details (host, username, password).
+- Edit the koneksi.php file to set your database connection details (host, username, password).
 4. Run the Application :
-   - Open your browser and access http://localhost/folder_name/status.php.
+- Open your browser and access http://localhost/folder_name/status.php.
 
 ## Usage
 1. Enter night patrol data in the provided form.

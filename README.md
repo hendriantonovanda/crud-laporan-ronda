@@ -1,6 +1,4 @@
 # Ronda Malam Information System
-
-## Project Description
 Ronda Malam is an information system designed to record and manage night patrol activities, including data on the officers on duty, the areas being guarded, incident notes, and patrol times. The aim of this project is to enhance security and efficiency in managing night patrols within communities.
 
 ## Features
